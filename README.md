@@ -93,7 +93,7 @@ Las contribuciones son bienvenidas:
 - Push a la Branch (git push origin feature/AmazingFeature)
 - Abre un Pull Request
 
-## Agradecimientos
+## Agradecimientos
 - Hugo: [Hugo](https://gohugo.io/)
 - PaperMod Theme: [PaperMod](https://github.com/adityatelange/hugo-PaperMod)
 
