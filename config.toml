@@ -1,0 +1,45 @@
+baseURL = ""
+languageCode = "es"
+title = "Mi Blog Personal"
+theme = "PaperMod"
+
+# Configuración adicional
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[params]
+  env = "production"
+  description = "Mi Blog Personal - Descripción"
+  author = "Tu Nombre"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowRssButtonInSectionTermList = true
+
+[params.profileMode]
+  enabled = true
+  title = "Mi Blog"
+  subtitle = "Bienvenido a mi blog personal"
+  imageUrl = "https://github.com/EduardoHernandezGuzman.png"
+  imageTitle = "Mi Foto"
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/EduardoHernandezGuzman"
+
+[[menu.main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 20
