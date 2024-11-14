@@ -2,6 +2,16 @@
 
 Una plantilla minimalista y elegante para crear tu blog personal usando Hugo y el tema PaperMod. Perfecta para desarrolladores, escritores y creadores de contenido.
 
+## Vista previa
+
+
+![imagen1](https://raw.githubusercontent.com/EduardoHernandezGuzman/hugo-blog-template/master/screenshots/001.png)
+![imagen1](https://raw.githubusercontent.com/EduardoHernandezGuzman/hugo-blog-template/master/screenshots/002.png)
+
+![imagen1](https://raw.githubusercontent.com/EduardoHernandezGuzman/hugo-blog-template/master/screenshots/003.png)
+![imagen1](https://raw.githubusercontent.com/EduardoHernandezGuzman/hugo-blog-template/master/screenshots/004.png)
+
+
 ##  Inicio Rápido
 
 ### 1. Usar esta plantilla
